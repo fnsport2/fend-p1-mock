@@ -1,0 +1,92 @@
+/* 
+  *****************************************
+  
+  Global style definitions for page elements
+  
+  *****************************************
+*/
+body {
+  font-family: "Lucida Grande", sans-serif;
+}
+
+h1,
+p, 
+li {
+  color: #666666;
+}
+
+h1 {
+  font-size: 52px;
+}
+
+h2 {
+  color: #F07C17;
+  font-size: 28px;
+}
+
+p {
+  line-height: 2.02em;
+}
+
+
+/* 
+  *****************************************
+
+  Main conent container 
+
+  *****************************************
+*/
+.container {
+  padding-bottom: 60px;
+}
+
+/* 
+  *****************************************
+
+  Page header 
+
+  *****************************************
+*/
+.main-heading {
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 45px;
+  margin-left: 18px;
+}
+
+/* 
+  *****************************************
+
+  Left aside content
+
+  *****************************************
+*/
+img {
+  width: 100%;
+  height: 375px;
+}
+.feature-box-aside {
+  border: solid 1px #CCCCCC;
+  margin-top: 28px;
+  padding: 12px 25px 34px;
+}
+
+.feature-heading {
+  margin-bottom: 28px;
+}
+
+.feature-list {
+  line-height: 2.2em;
+}
+
+/* 
+  *****************************************
+
+  Article Content
+
+  *****************************************
+*/
+.article-heading {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
